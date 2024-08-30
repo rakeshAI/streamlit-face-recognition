@@ -3,7 +3,7 @@ cmake
 dlib==19.8.1
 face_recognition
 imutils
-opencv-python==4.3.0.36
+opencv-python==4.8.1.78
 pillow
 numpy
 #pandas
